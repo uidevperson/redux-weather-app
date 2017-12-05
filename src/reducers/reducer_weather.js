@@ -5,6 +5,5 @@ export default function(state = null, action) {
 	// 	case 'WEATHER':
 	// 		return action.payload;
 	// }
-	console.log('action recieved', action);
 	return state;
 }
