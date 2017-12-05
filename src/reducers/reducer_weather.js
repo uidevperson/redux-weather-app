@@ -1,10 +1,10 @@
 // state arguement is not application state
 // only the state this reducer is responsile for
 export default function(state = null, action) {
-	switch(action.type) {
-		case 'BOOK_SELECTED':
-			return action.payload;
-	}
+	// switch(action.type) {
+	// 	case 'WEATHER':
+	// 		return action.payload;
+	// }
+	console.log('action recieved', action);
 	return state;
-
 }
