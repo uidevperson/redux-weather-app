@@ -13,10 +13,7 @@ class WeatherList extends Component {
 			  	<th>Humidity</th>
 			  </tr>
 			  </thead>
-			  <tbody>
-			{/*  <tr>
-			  	<td></td>
-			  </tr>*/}
+			  <tbody>}
 			  </tbody>
 			</table>
 		);
