@@ -18,7 +18,6 @@ export default (props) => {
       	<div>{ average(props.data)} {props.units}</div>
       </div>
     );
-
 }
 
 // export default class Chart extends Component {
