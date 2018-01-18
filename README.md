@@ -9,8 +9,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > cd redux-weather-app
 > npm install
 > npm start
-
-
 ```
 
 
